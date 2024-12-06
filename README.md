@@ -1,4 +1,4 @@
-<h1>Hello, I'm Donald, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hello, I'm Donald, an <a href="https://www.linkedin.com/in/donald-thomas-158b10339/">IT Technician</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
